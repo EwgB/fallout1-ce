@@ -26,7 +26,7 @@ $ mv app Fallout
 
 - Download and copy `fallout-ce` to this folder.
 
-- Install [SDL2](https://libsdl.org/download-2.0.php):
+- Install [SDL2](https://github.com/libsdl-org/SDL/):
 
 ```console
 $ sudo apt install libsdl2-2.0-0
